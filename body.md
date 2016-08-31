@@ -4,7 +4,7 @@ We, Information & Knowledge Engineering (ike) lab., research and develop methodo
 ### Members
 
 #### Current
-* [Byung-Hyun Ha](mailto:bhha@pusan.ac.kr), Associate Professor
+* [Byung-Hyun Ha](https://github.com/ikelab/lab/wiki/Byung-Hyun-Ha), Associate Professor
 * [Eun-Jung Park](mailto:magicbox14@naver.com), Ph.D. Candidate
 * [Bobae Kwon](mailto:hajibin@pusan.ac.kr), Ph.D. Candidate
 * [Seyoon Jung](mailto:wjdxnxn@naver.com), Master's Candidate
