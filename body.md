@@ -11,7 +11,7 @@ We, Information & Knowledge Engineering (ike) lab., research and develop methodo
 
 #### [Alumni](https://github.com/ikelab/lab/wiki/alumni)
 
-### Courses
+### [Courses](https://github.com/ikelab/courses/wiki)
 * [Supply Chain Management (2016)](https://github.com/ikelab/courses/wiki/Supply-Chain-Management-%282016%29)
 * [Data Mining (2016)](https://github.com/ikelab/courses/wiki/Data-Mining-%282016%29)
 * [Capstone Design (2016)](https://github.com/ikelab/courses/wiki/Capstone-Design-%282016%29)
