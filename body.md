@@ -15,6 +15,7 @@ We, Information & Knowledge Engineering (ike) lab., research and develop methodo
 * [Supply Chain Management (2016)](https://github.com/ikelab/courses/wiki/Supply-Chain-Management-%282016%29)
 * [Data Mining (2016)](https://github.com/ikelab/courses/wiki/Data-Mining-%282016%29)
 * [Capstone Design (2016)](https://github.com/ikelab/courses/wiki/Capstone-Design-%282016%29)
+* [Production and Operations Management (2016)](https://github.com/ikelab/courses/wiki/Production-and-Operations-Management-%282016%29)
 
 ### Contact
 * Tel: +82-51-510-2303
